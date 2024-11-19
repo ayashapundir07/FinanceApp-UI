@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "name": "Rent",
+        "amount": "467.98",
+        "date": "2024-05-01"
+    },
+    {
+        "id": "2",
+        "name": "Groceries",
+        "amount": "123.45",
+        "date": "2024-05-03"
+    },
+    {
+        "id": "3",
+        "name": "Utilities",
+        "amount": "89.67",
+        "date": "2024-05-05"
+    },
+    {
+        "id": "4",
+        "name": "Transportation",
+        "amount": "56.75",
+        "date": "2024-05-07"
+    },
+    {
+        "id": "5",
+        "name": "Dining Out",
+        "amount": "42.90",
+        "date": "2024-05-10"
+    },
+    {
+        "id": "6",
+        "name": "Entertainment",
+        "amount": "35.60",
+        "date": "2024-05-12"
+    },
+    {
+        "id": "7",
+        "name": "Insurance",
+        "amount": "150.00",
+        "date": "2024-05-15"
+    },
+    {
+        "id": "8",
+        "name": "Subscriptions",
+        "amount": "14.99",
+        "date": "2024-05-18"
+    },
+    {
+        "id": "9",
+        "name": "Health & Fitness",
+        "amount": "25.00",
+        "date": "2024-05-20"
+    },
+    {
+        "id": "10",
+        "name": "Miscellaneous",
+        "amount": "18.25",
+        "date": "2024-05-22"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+      "id": "1",
+      "name": "Housing",
+      "amount": "900.00",
+      "percentage": "76%"
+    },
+    {
+      "id": "2",
+      "name": "Food",
+      "amount": "1200.89",
+      "percentage": "85%"
+    },
+    {
+      "id": "3",
+      "name": "Saving",
+      "amount": "750.14",
+      "percentage": "65%"
+    },
+    {
+      "id": "4",
+      "name": "Grocery",
+      "amount": "980",
+      "percentage": "78%"
+    },
+    {
+      "id": "5",
+      "name": "David",
+      "amount": "1100",
+      "percentage": "90%"
+    }
+  ]
+  

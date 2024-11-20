@@ -9,11 +9,11 @@ const Header = () => {
       <View style={styles.wrapper}>
         <View style={styles.userInfoWrapper}>
           <Image
-            source={{ uri: "https://i.pravatar.cc/250?u=12" }}
+            source={{ uri: "https://cdn.pixabay.com/photo/2014/03/25/16/54/user-297566_1280.png" }}
             style={styles.userImg}
           />
           <View style={styles.userTxtWrapper}>
-            <Text style={[styles.userText, { fontSize: 12 }]}>Hi, Ayasha</Text>
+            <Text style={[styles.userText, { fontSize: 14 }]}>Hi, Ayasha</Text>
             <Text style={[styles.userText, { fontSize: 16 }]}>
               Your <Text style={styles.boldText}>Budget</Text>{" "}
             </Text>
